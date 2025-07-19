@@ -16,7 +16,7 @@ Passwords are stored appropriately, with many layers of SHA256 hashing and salti
 Encryption keys are generated via my own hashing algorithm, wherein the chosen password is hashed, and cropped to an appropriate length. I developed this hashing algorithm independently as an experiment, so I decided to include it within this coursework to test its applicability. While far from secure by any means, it was a fun test, and deepened my understanding of hashing algorithms. A version of this algorithm has been included in a separate repository.
 
 Other functionalities included where a password strength checker, which is a relatively simple string reading algorithm that enforces certain rules. An input validation system, which removes the possibility for users to input the wrong data, and mostly exists to clean up the code in the main system. 
--------------------------------------------------------------------
+
 ## Results
 -------------------------------------------------------------------
 I received 91% as the result for this coursework, the results transcript/ feedback is attached. 
