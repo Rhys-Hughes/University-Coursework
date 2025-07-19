@@ -22,3 +22,5 @@ Other functionalities included where a password strength checker, which is a rel
 I received 91% as the result for this coursework, the results transcript/ feedback is attached. 
 
 I certainly learned a lot from working on this project, both in terms of larger-scale project management, and raw security principles when implemented in code, such as string encoding when encrypting, and data loss warping encryption keys. It was a very valuable experience.
+
+![Results](problemSolvingResults.png)
